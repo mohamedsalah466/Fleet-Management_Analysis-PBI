@@ -99,8 +99,5 @@ Evaluate fleet profitability and identify high-performing vehicles.
 ✔ Fleet Performance Analysis  
 ✔ Data Visualization
 
----
 
-## Dashboard Preview
 
-(Add screenshots here)
